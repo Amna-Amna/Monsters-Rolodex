@@ -1,5 +1,4 @@
 import { Component } from "react";
-
 class CardList extends Component {
   render() {
     console.log('render from CardList')
