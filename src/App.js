@@ -1,7 +1,6 @@
 import { Component } from "react";
 import CardList from "./components/card-list/card-list.component";
 import SearchBox from "./components/seach-box/search-box.component";
-//  import logo from './logo.svg';
 import "./App.css";
 
 class App extends Component {
